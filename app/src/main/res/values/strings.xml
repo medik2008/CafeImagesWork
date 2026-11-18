@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mage</string>
+    <string name="Slon">Зеленый слон</string>
+    <string name="Adress">Пермь, Пермский край, ул 25 Октября, 40А</string>
+    <string name="person">Укажите свои персональные данные:</string>
+    <string name="fio">Фамилия, Имя, Отчество</string>
+    <string name="number">Телефон:</string>
+    <string name="Adresss">Адрес доставки:</string>
+    <string name="ZAKAZ">ОФОРМИТЬ ЗАКАЗ</string>
+</resources>
+
